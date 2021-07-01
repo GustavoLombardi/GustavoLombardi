@@ -32,8 +32,6 @@ Nas horas livres estudo programação e conteúdos de tecnologia
   - Estudar sobre linguagens e frameworks; 
   - Estudar sobre tecnologia;
   - Jogar Valorant;
-- 📫 Se quiser pode enviar um email para contato@strongreen.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLombardi&layout=compact&theme=graywhite&title_color=268bd2" alt="GustavoLombardi" />

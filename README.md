@@ -23,28 +23,23 @@ E estou me capacitando pela para me tornar um <b>Desenvolvedor Full-Stack </b>.
 Nas horas livres estudo programação e conteúdos de tecnologia
 </p>
 
-<hr />
-	@@ -46,16 +30,14 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
-
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
 - 👩‍💻 Estou estudando backend com **Java**, **Oracle** e utilizando o framework **Spring-boot**;
-- Trabalhando na *@TopService* como desenvolvedor. 
+- Trabalhando como desenvolvedor. 
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar sobre linguagens e frameworks; 
   - Estudar sobre tecnologia;
   - Jogar Valorant;
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
 
 <p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="GustavoLombardi" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="GustavoLombardi" />
 </p>
 
 **Linguagens e ferramentas:**  

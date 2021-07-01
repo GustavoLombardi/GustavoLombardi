@@ -23,7 +23,7 @@ E estou me capacitando pela para me tornar um <b>Desenvolvedor Full-Stack </b>.
 Nas horas livres estudo programação e conteúdos de tecnologia
 </p>
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1625182302134.png" width="400px" />
 
 - 👩‍💻 Estou estudando backend com **Java**, **Oracle** e utilizando o framework **Spring-boot**;
 - Trabalhando como desenvolvedor. 

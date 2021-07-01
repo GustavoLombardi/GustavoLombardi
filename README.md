@@ -65,4 +65,3 @@ Nas horas livres estudo programação e conteúdos de tecnologia
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoLombardi" alt="Gustavo Lombardi" /> </p>
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)

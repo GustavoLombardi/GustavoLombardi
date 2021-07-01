@@ -34,7 +34,10 @@ Nas horas livres estudo programação e conteúdos de tecnologia
   - Jogar Valorant;
 
 <p>
+
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLombardi&layout=compact&theme=graywhite&title_color=268bd2" alt="GustavoLombardi" />
+<p>
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoLombardi&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="GustavoLombardi" />
@@ -42,12 +45,10 @@ Nas horas livres estudo programação e conteúdos de tecnologia
 
 **Linguagens e ferramentas:**  
 
-
-
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="40" height="40"/> 
 <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
@@ -72,6 +73,6 @@ Nas horas livres estudo programação e conteúdos de tecnologia
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Gustavo Lombardi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoLombardi" alt="Gustavo Lombardi" /> </p>
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)

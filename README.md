@@ -31,7 +31,6 @@ Nas horas livres estudo programação e conteúdos de tecnologia
 - 👾 Meus hobbies são: 
   - Estudar sobre linguagens e frameworks; 
   - Estudar sobre tecnologia;
-  - Jogar Valorant;
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLombardi&layout=compact&theme=graywhite&title_color=268bd2" alt="GustavoLombardi" />
 <p>

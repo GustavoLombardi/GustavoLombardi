@@ -34,7 +34,7 @@ Nas horas livres estudo programação e conteúdos de tecnologia
   - Jogar Valorant;
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLombardi&layout=compact&theme=graywhite&title_color=268bd2" alt="GustavoLombardi" />
-</p>
+
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoLombardi&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="GustavoLombardi" />
 </p>
@@ -58,7 +58,4 @@ Nas horas livres estudo programação e conteúdos de tecnologia
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
 </p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoLombardi" alt="Gustavo Lombardi" /> </p>
 
